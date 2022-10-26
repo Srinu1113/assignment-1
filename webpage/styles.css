@@ -1,0 +1,19 @@
+header{
+    background-color: rgb(105, 236, 192);
+}
+
+body{
+    background-color: ghostwhite;
+       
+}
+
+p{
+    justify-content: left;
+}
+marquee{
+    text-decoration: solid;
+    text-size-adjust: bold;
+}
+footer{
+    background-color: rgb(42, 223, 163);
+}

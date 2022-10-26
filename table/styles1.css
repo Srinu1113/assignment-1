@@ -1,0 +1,14 @@
+table{
+    border:2cm;
+    background-color: rgb(55, 136, 136);
+    text-size-adjust:bold;
+    font-size:large;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    background-color: rgb(23, 219, 209);
+}
+body{
+    background-color: rgb(47, 167, 171);
+}
